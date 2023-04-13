@@ -1,11 +1,10 @@
 package com.example.myapplication;
-//salut
+
 import android.os.Bundle;
 
 import com.google.android.material.snackbar.Snackbar;
-
 import androidx.appcompat.app.AppCompatActivity;
-// ton gros daron
+
 import android.view.View;
 
 import androidx.navigation.NavController;
@@ -17,7 +16,7 @@ import com.example.myapplication.databinding.ActivityMainBinding;
 
 import android.view.Menu;
 import android.view.MenuItem;
-//adios
+
 public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration appBarConfiguration;
