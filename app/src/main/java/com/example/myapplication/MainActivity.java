@@ -1,5 +1,4 @@
 package com.example.myapplication;
-//salut
 import android.os.Bundle;
 
 import com.google.android.material.snackbar.Snackbar;
@@ -17,7 +16,6 @@ import com.example.myapplication.databinding.ActivityMainBinding;
 
 import android.view.Menu;
 import android.view.MenuItem;
-//adios
 public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration appBarConfiguration;
